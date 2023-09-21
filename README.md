@@ -1,5 +1,8 @@
 <h1 align="center">Hi there 👋, I'm Antonios Gkamitsios </h1>
-
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=antonisgkamitsios)](https://github.com/ryo-ma/github-profile-trophy) -->
+<!-- <p>
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=antonisgkamitsios" /></a>
+</p> -->
 <!--
 **antonisgkamitsios/antonisgkamitsios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
